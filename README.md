@@ -1,6 +1,8 @@
 # fa-react-icon
 🍺 Hi there, font-awesome icons for react lovers <3, Thanks...
 
+[![NPM](https://img.shields.io/npm/v/react-materials-icon.svg)](https://www.npmjs.com/package/fa-react-icon)
+
 
 ## Installation
 Using NPM:
